@@ -1,15 +1,36 @@
-# Exercícios do curso "Algoritmo [40 Horas]" do Profº Gustavo Guanabara
-- Neste repositório você encontrará exercícios resolvidos para prática de Algoritmos. Os exercícios são retirados do curso "Algoritmo [40 Horas] do Curso em Video do Profº Gustavo Guanabara. Os exercícios são para minha prática pessoal, e resolvi compartilhar.
+# 👾 Exercícios de Algoritmo e Lógica de Programação do Curso em Vídeo.
 
-## 🛠️ Programa utilizado para testes
-- Utilizo para testes o Visualg 2.5, instalado na máquina.
-O Visualg é um programa que permite editar, interpretar e que também executa algoritmos em português estruturado, sendo uma variação da linguagem Portugol. Implementado tanto como um aplicação desktop quanto como interpretadores em páginas Web e extensões para o Visual Studio Code, de domínio público e uso gratuito para edição, interpretação e execução de algoritmos.
+## 📌 Proposta do projeto:
 
-## 📌 Link para Instalação
-https://dicasdeprogramacao.com.br/download-visualg/
+No curso de "Algoritmo" do Curso em Vídeo, é proposto uma lista de 100 questões para praticar a construção de algoritmos e o raciocínio em lógica de programação.
+A proposta desse repositório é resolver esses exercícios, através de uma ferramenta, e registrar todas as resoluções e evoluções do algoritmo.
+<br>
 
-## 📌 Link do site Curso em Video
-https://www.cursoemvideo.com
+## 📌 Ferramenta utilizada e como instalar:
 
+Para a construção dos algoritmos, utilizei o programa Visualg 2.5, que permite editar, interpretar e executar algoritmos em português como um "programa" normal de computador.
+O Visualg possui recursos como simulação da "tela" do computador, visualização de variáveis, "breakpoints", ajuda on-line, impressão dos fontes e outras características que auxiliam o aprendizado das técnicas de programação.
+
+Para utilizar basta acessar o link abaixo, escolher a versão que você deseja (2.5 ou 3.0), fazer o download e praticar.
+
+[Download do Visualg](https://dicasdeprogramacao.com.br/download-visualg/)
+<br>
+
+## 📌 Lista de exercícios:
+
+Dentro dos arquivos deste repositório você encontrará tanto a questão proposta quanto a sua resolução. Caso queira ter acesso a lista completa ou visualizar a mesma sem risco de ver como eu resolvi, deixo o link do arquivo contendo todos os exercícios.
+
+[Lista das 100 questões](https://www.cursoemvideo.com/wp-content/uploads/2020/10/Exerci%CC%81cios-de-Algoritmos-1-100.pdf)
+<br>
+
+## 📌 Acesso ao curso:
+
+Caso possua interesse no curso "Algoritmo" da plataforma Curso em Vídeo, do Profº Gustavo Guanabara, deixo o link de acesso abaixo. 
+A plataforma possui vários cursos na área de programação, todos gratuitos e livres para acesso. 
+
+[Curso de Algoritmo - Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
+<br>
+
+---
 
 ### Feito por [Dan!](https://github.com/danvasquesc) ✨
