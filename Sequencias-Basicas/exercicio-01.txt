@@ -1,4 +1,6 @@
-1) Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
+// Função : Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
+// Autor :  Dan Vasques
+// Data : 2024
 
 algoritmo "Olá_Mundo"
 var
