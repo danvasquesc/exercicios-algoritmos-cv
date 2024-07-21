@@ -1,0 +1,7 @@
+1) Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
+
+algoritmo "Olá_Mundo"
+var
+inicio
+      escreva("Olá, Mundo!")
+fimalgoritmo

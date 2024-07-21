@@ -1,0 +1,15 @@
+12) Crie um programa que leia o preço de um produto, calcule e mostre o seu PREÇO PROMOCIONAL, com 5% de desconto.
+
+
+algoritmo "preço_promocional"
+var
+   preco, precoProm, desconto : real
+inicio
+      escreva("Digite o preço do produto: ")
+      leia(preco)
+      
+      desconto <- preco * 0.05
+      precoProm <- preco - desconto
+      
+      escreva("O preço promocional será de R$ ", precoProm)
+fimalgoritmo
