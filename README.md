@@ -1,4 +1,4 @@
-# 👾 Exercícios de Algoritmo e Lógica de Programação - Curso em Vídeo. <br>
+## 👾 Exercícios de Algoritmo e Lógica de Programação - Curso em Vídeo. <br>
 
 ## 📌 Proposta do projeto:
 
