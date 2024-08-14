@@ -1,0 +1,15 @@
+13) Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o
+seu novo salário, com 15% de aumento.
+
+algoritmo "Aumento Porcentagem"
+var
+   salInicial, aumento, novoSalario: real
+inicio
+      escreva("Qual seu salário? R$ ")
+      leia(salInicial)
+      
+      aumento <- (salInicial * 0.15)
+      novoSalario <- salInicial + aumento
+      
+      escreva("Seu novo salário com aumento de 15% será R$ ",novoSalario)
+fimalgoritmo
