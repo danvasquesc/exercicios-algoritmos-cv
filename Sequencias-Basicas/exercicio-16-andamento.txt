@@ -1,0 +1,50 @@
+16) [DESAFIO] Escreva um programa para calcular a redução do tempo de vida de um
+fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos ele
+já fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule
+quantos dias de vida um fumante perderá e exiba o total em dias.
+
+quantos cigarros fuma por dia ex: 10
+quantos anos fuma: 2
+
+
+minutos -> hora -> dia 
+
+
+
+
+algoritmo "semnome"
+var
+   quantPorDia : inteiro
+   quantAnos, quantDeDia, perdaDiaria, totalDia : real
+
+inicio
+      escreva("Quantidade de cigarros fumado por dia: ")
+      leia(quantPorDia)
+      escreva("Você fuma a quantos anos? ")
+      leia(quantAnos)
+      
+      quantDeDia <- quantAnos * 365
+      
+      perdaDiaria <- quantPorDia * 10 // em minutos
+      
+      totalDia <- quantDeDia * perdaDiaria
+      
+      escreva("Você perderá ", totalDia," dias de vida")
+fimalgoritmo
+
+algoritmo "semnome"
+var
+   cigarroPorDia : inteiro
+   anoFumado, perdaDiaria : real
+
+inicio
+      escreva("Quantidade de cigarros fumado por dia: ")
+      leia(cigarroPorDia)
+      escreva("Você fuma a quantos anos? ")
+      leia(anoFumado)
+
+      perdaDiaria <- cigarroPorDia * 10
+
+
+fimalgoritmo
+
