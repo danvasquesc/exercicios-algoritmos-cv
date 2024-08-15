@@ -1,0 +1,20 @@
+15) Crie um programa que leia o número de dias trabalhados em um mês e mostre o
+salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25
+por hora trabalhada.
+
+algoritmo "Salario Funcionario"
+var
+   quantDia : inteiro
+   salDiario, salTotal : real
+
+
+inicio
+      escreva("Quantidade de dias trabalhados no mês: ")
+      leia(quantDia)
+      
+      salDiario <- 8 * 25
+      salTotal <- salDiario * quantDia
+      
+      escreva("O salário do funcionário é R$", salTotal)
+fimalgoritmo
+
