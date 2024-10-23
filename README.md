@@ -1,4 +1,5 @@
-## 👾 Exercícios de Algoritmo e Lógica de Programação - Curso em Vídeo. <br>
+# 📂 Exercícios de Algoritmo e Lógica de Programação - Curso em Vídeo. 
+<br>
 
 ## 📌 Proposta do projeto:
 
@@ -33,8 +34,6 @@ Caso possua interesse no curso de Algoritmo da plataforma Curso em Vídeo, do Pr
 A plataforma possui vários cursos na área de programação, todos gratuitos e livres para acesso. 
 
 [Curso de Algoritmo - Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/)
-
-<br>
 
 ---
 
